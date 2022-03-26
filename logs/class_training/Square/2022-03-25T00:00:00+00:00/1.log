@@ -1,0 +1,23 @@
+[2022-03-25 20:24:49,372] {taskinstance.py:1037} INFO - Dependencies all met for <TaskInstance: class_training.Square scheduled__2022-03-25T00:00:00+00:00 [queued]>
+[2022-03-25 20:24:49,383] {taskinstance.py:1037} INFO - Dependencies all met for <TaskInstance: class_training.Square scheduled__2022-03-25T00:00:00+00:00 [queued]>
+[2022-03-25 20:24:49,384] {taskinstance.py:1243} INFO - 
+--------------------------------------------------------------------------------
+[2022-03-25 20:24:49,384] {taskinstance.py:1244} INFO - Starting attempt 1 of 2
+[2022-03-25 20:24:49,384] {taskinstance.py:1245} INFO - 
+--------------------------------------------------------------------------------
+[2022-03-25 20:24:49,398] {taskinstance.py:1264} INFO - Executing <Task(PythonOperator): Square> on 2022-03-25 00:00:00+00:00
+[2022-03-25 20:24:49,403] {standard_task_runner.py:52} INFO - Started process 26288 to run task
+[2022-03-25 20:24:49,414] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'class_training', 'Square', 'scheduled__2022-03-25T00:00:00+00:00', '--job-id', '24', '--raw', '--subdir', 'DAGS_FOLDER/class_training.py', '--cfg-path', '/var/folders/1v/qwnb14hd7z7dhfn3xtt04sym0000gn/T/tmpnogisxl9', '--error-file', '/var/folders/1v/qwnb14hd7z7dhfn3xtt04sym0000gn/T/tmpg_nbj014']
+[2022-03-25 20:24:49,418] {standard_task_runner.py:77} INFO - Job 24: Subtask Square
+[2022-03-25 20:24:49,497] {logging_mixin.py:109} INFO - Running <TaskInstance: class_training.Square scheduled__2022-03-25T00:00:00+00:00 [running]> on host adebolas-mbp.hsd1.md.comcast.net
+[2022-03-25 20:24:49,557] {taskinstance.py:1429} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=adebola.fagbule1@gmail.com
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=class_training
+AIRFLOW_CTX_TASK_ID=Square
+AIRFLOW_CTX_EXECUTION_DATE=2022-03-25T00:00:00+00:00
+AIRFLOW_CTX_DAG_RUN_ID=scheduled__2022-03-25T00:00:00+00:00
+[2022-03-25 20:24:49,802] {python.py:175} INFO - Done. Returned value was: None
+[2022-03-25 20:24:49,814] {taskinstance.py:1272} INFO - Marking task as SUCCESS. dag_id=class_training, task_id=Square, execution_date=20220325T000000, start_date=20220326T002449, end_date=20220326T002449
+[2022-03-25 20:24:49,877] {local_task_job.py:154} INFO - Task exited with return code 0
+[2022-03-25 20:24:49,915] {local_task_job.py:264} INFO - 1 downstream tasks scheduled from follow-on schedule check

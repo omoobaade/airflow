@@ -1,0 +1,70 @@
+[2022-03-25 21:39:15,822] {processor.py:163} INFO - Started process (PID=26373) to work on /Users/adebolafagbule/opt/anaconda3/envs/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-03-25 21:39:15,823] {processor.py:642} INFO - Processing file /Users/adebolafagbule/opt/anaconda3/envs/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-03-25 21:39:15,823] {logging_mixin.py:109} INFO - [2022-03-25 21:39:15,823] {dagbag.py:500} INFO - Filling up the DagBag from /Users/adebolafagbule/opt/anaconda3/envs/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-03-25 21:39:15,891] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /Users/adebolafagbule/opt/anaconda3/envs/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-03-25 21:39:15,923] {logging_mixin.py:109} INFO - [2022-03-25 21:39:15,922] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-25 21:39:15,942] {logging_mixin.py:109} INFO - [2022-03-25 21:39:15,942] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-03-25T21:39:15.942149+00:00
+[2022-03-25 21:39:15,956] {processor.py:171} INFO - Processing /Users/adebolafagbule/opt/anaconda3/envs/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.136 seconds
+[2022-03-25 23:22:22,858] {processor.py:163} INFO - Started process (PID=26579) to work on /Users/adebolafagbule/opt/anaconda3/envs/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-03-25 23:22:22,859] {processor.py:642} INFO - Processing file /Users/adebolafagbule/opt/anaconda3/envs/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-03-25 23:22:22,859] {logging_mixin.py:109} INFO - [2022-03-25 23:22:22,859] {dagbag.py:500} INFO - Filling up the DagBag from /Users/adebolafagbule/opt/anaconda3/envs/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-03-25 23:22:22,887] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /Users/adebolafagbule/opt/anaconda3/envs/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-03-25 23:22:22,900] {logging_mixin.py:109} INFO - [2022-03-25 23:22:22,900] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-25 23:22:22,908] {logging_mixin.py:109} INFO - [2022-03-25 23:22:22,908] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-03-25T23:22:22.908527+00:00
+[2022-03-25 23:22:22,914] {processor.py:171} INFO - Processing /Users/adebolafagbule/opt/anaconda3/envs/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.056 seconds
+[2022-03-25 23:23:45,948] {processor.py:163} INFO - Started process (PID=26686) to work on /Users/adebolafagbule/opt/anaconda3/envs/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-03-25 23:23:45,950] {processor.py:642} INFO - Processing file /Users/adebolafagbule/opt/anaconda3/envs/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-03-25 23:23:45,950] {logging_mixin.py:109} INFO - [2022-03-25 23:23:45,950] {dagbag.py:500} INFO - Filling up the DagBag from /Users/adebolafagbule/opt/anaconda3/envs/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-03-25 23:23:45,978] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /Users/adebolafagbule/opt/anaconda3/envs/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-03-25 23:23:45,992] {logging_mixin.py:109} INFO - [2022-03-25 23:23:45,992] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-25 23:23:46,003] {logging_mixin.py:109} INFO - [2022-03-25 23:23:46,002] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-03-25T23:23:46.002775+00:00
+[2022-03-25 23:23:46,010] {processor.py:171} INFO - Processing /Users/adebolafagbule/opt/anaconda3/envs/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.062 seconds
+[2022-03-25 23:25:07,111] {processor.py:163} INFO - Started process (PID=26873) to work on /Users/adebolafagbule/opt/anaconda3/envs/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-03-25 23:25:07,111] {processor.py:642} INFO - Processing file /Users/adebolafagbule/opt/anaconda3/envs/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-03-25 23:25:07,112] {logging_mixin.py:109} INFO - [2022-03-25 23:25:07,112] {dagbag.py:500} INFO - Filling up the DagBag from /Users/adebolafagbule/opt/anaconda3/envs/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-03-25 23:25:07,144] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /Users/adebolafagbule/opt/anaconda3/envs/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-03-25 23:25:07,159] {logging_mixin.py:109} INFO - [2022-03-25 23:25:07,159] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-25 23:25:07,167] {logging_mixin.py:109} INFO - [2022-03-25 23:25:07,167] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-03-25T23:25:07.167189+00:00
+[2022-03-25 23:25:07,172] {processor.py:171} INFO - Processing /Users/adebolafagbule/opt/anaconda3/envs/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.062 seconds
+[2022-03-25 23:26:28,486] {processor.py:163} INFO - Started process (PID=26961) to work on /Users/adebolafagbule/opt/anaconda3/envs/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-03-25 23:26:28,487] {processor.py:642} INFO - Processing file /Users/adebolafagbule/opt/anaconda3/envs/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-03-25 23:26:28,487] {logging_mixin.py:109} INFO - [2022-03-25 23:26:28,487] {dagbag.py:500} INFO - Filling up the DagBag from /Users/adebolafagbule/opt/anaconda3/envs/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-03-25 23:26:28,515] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /Users/adebolafagbule/opt/anaconda3/envs/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-03-25 23:26:28,528] {logging_mixin.py:109} INFO - [2022-03-25 23:26:28,528] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-25 23:26:28,535] {logging_mixin.py:109} INFO - [2022-03-25 23:26:28,535] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-03-25T23:26:28.535569+00:00
+[2022-03-25 23:26:28,541] {processor.py:171} INFO - Processing /Users/adebolafagbule/opt/anaconda3/envs/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.055 seconds
+[2022-03-25 23:27:53,004] {processor.py:163} INFO - Started process (PID=27071) to work on /Users/adebolafagbule/opt/anaconda3/envs/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-03-25 23:27:53,005] {processor.py:642} INFO - Processing file /Users/adebolafagbule/opt/anaconda3/envs/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-03-25 23:27:53,005] {logging_mixin.py:109} INFO - [2022-03-25 23:27:53,005] {dagbag.py:500} INFO - Filling up the DagBag from /Users/adebolafagbule/opt/anaconda3/envs/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-03-25 23:27:53,032] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /Users/adebolafagbule/opt/anaconda3/envs/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-03-25 23:27:53,045] {logging_mixin.py:109} INFO - [2022-03-25 23:27:53,045] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-25 23:27:53,052] {logging_mixin.py:109} INFO - [2022-03-25 23:27:53,052] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-03-25T23:27:53.052491+00:00
+[2022-03-25 23:27:53,057] {processor.py:171} INFO - Processing /Users/adebolafagbule/opt/anaconda3/envs/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.054 seconds
+[2022-03-25 23:29:13,023] {processor.py:163} INFO - Started process (PID=27151) to work on /Users/adebolafagbule/opt/anaconda3/envs/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-03-25 23:29:13,024] {processor.py:642} INFO - Processing file /Users/adebolafagbule/opt/anaconda3/envs/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-03-25 23:29:13,024] {logging_mixin.py:109} INFO - [2022-03-25 23:29:13,024] {dagbag.py:500} INFO - Filling up the DagBag from /Users/adebolafagbule/opt/anaconda3/envs/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-03-25 23:29:13,056] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /Users/adebolafagbule/opt/anaconda3/envs/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-03-25 23:29:13,071] {logging_mixin.py:109} INFO - [2022-03-25 23:29:13,071] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-25 23:29:13,079] {logging_mixin.py:109} INFO - [2022-03-25 23:29:13,078] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-03-25T23:29:13.078823+00:00
+[2022-03-25 23:29:13,084] {processor.py:171} INFO - Processing /Users/adebolafagbule/opt/anaconda3/envs/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.061 seconds
+[2022-03-25 23:30:38,783] {processor.py:163} INFO - Started process (PID=27254) to work on /Users/adebolafagbule/opt/anaconda3/envs/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-03-25 23:30:38,785] {processor.py:642} INFO - Processing file /Users/adebolafagbule/opt/anaconda3/envs/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-03-25 23:30:38,786] {logging_mixin.py:109} INFO - [2022-03-25 23:30:38,786] {dagbag.py:500} INFO - Filling up the DagBag from /Users/adebolafagbule/opt/anaconda3/envs/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-03-25 23:30:38,814] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /Users/adebolafagbule/opt/anaconda3/envs/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-03-25 23:30:38,827] {logging_mixin.py:109} INFO - [2022-03-25 23:30:38,827] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-25 23:30:38,834] {logging_mixin.py:109} INFO - [2022-03-25 23:30:38,834] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-03-25T23:30:38.834640+00:00
+[2022-03-25 23:30:38,842] {processor.py:171} INFO - Processing /Users/adebolafagbule/opt/anaconda3/envs/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.059 seconds
+[2022-03-25 23:32:04,411] {processor.py:163} INFO - Started process (PID=27348) to work on /Users/adebolafagbule/opt/anaconda3/envs/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-03-25 23:32:04,412] {processor.py:642} INFO - Processing file /Users/adebolafagbule/opt/anaconda3/envs/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-03-25 23:32:04,412] {logging_mixin.py:109} INFO - [2022-03-25 23:32:04,412] {dagbag.py:500} INFO - Filling up the DagBag from /Users/adebolafagbule/opt/anaconda3/envs/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-03-25 23:32:04,467] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /Users/adebolafagbule/opt/anaconda3/envs/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-03-25 23:32:04,480] {logging_mixin.py:109} INFO - [2022-03-25 23:32:04,480] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-25 23:32:04,488] {logging_mixin.py:109} INFO - [2022-03-25 23:32:04,488] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-03-25T23:32:04.488773+00:00
+[2022-03-25 23:32:04,494] {processor.py:171} INFO - Processing /Users/adebolafagbule/opt/anaconda3/envs/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.083 seconds
+[2022-03-25 23:33:27,884] {processor.py:163} INFO - Started process (PID=27435) to work on /Users/adebolafagbule/opt/anaconda3/envs/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-03-25 23:33:27,885] {processor.py:642} INFO - Processing file /Users/adebolafagbule/opt/anaconda3/envs/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2022-03-25 23:33:27,885] {logging_mixin.py:109} INFO - [2022-03-25 23:33:27,885] {dagbag.py:500} INFO - Filling up the DagBag from /Users/adebolafagbule/opt/anaconda3/envs/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-03-25 23:33:27,914] {processor.py:654} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /Users/adebolafagbule/opt/anaconda3/envs/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py
+[2022-03-25 23:33:27,927] {logging_mixin.py:109} INFO - [2022-03-25 23:33:27,927] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-25 23:33:27,936] {logging_mixin.py:109} INFO - [2022-03-25 23:33:27,936] {dag.py:2937} INFO - Setting next_dagrun for latest_only to 2022-03-25T23:33:27.936518+00:00
+[2022-03-25 23:33:27,943] {processor.py:171} INFO - Processing /Users/adebolafagbule/opt/anaconda3/envs/airflow_env/lib/python3.8/site-packages/airflow/example_dags/example_latest_only.py took 0.059 seconds

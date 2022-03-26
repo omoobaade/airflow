@@ -1,0 +1,23 @@
+[2022-03-25 09:19:39,956] {taskinstance.py:1037} INFO - Dependencies all met for <TaskInstance: class_training.Create_Num_ID manual__2022-03-25T13:19:29.888778+00:00 [queued]>
+[2022-03-25 09:19:39,960] {taskinstance.py:1037} INFO - Dependencies all met for <TaskInstance: class_training.Create_Num_ID manual__2022-03-25T13:19:29.888778+00:00 [queued]>
+[2022-03-25 09:19:39,961] {taskinstance.py:1243} INFO - 
+--------------------------------------------------------------------------------
+[2022-03-25 09:19:39,961] {taskinstance.py:1244} INFO - Starting attempt 1 of 2
+[2022-03-25 09:19:39,961] {taskinstance.py:1245} INFO - 
+--------------------------------------------------------------------------------
+[2022-03-25 09:19:39,966] {taskinstance.py:1264} INFO - Executing <Task(PythonOperator): Create_Num_ID> on 2022-03-25 13:19:29.888778+00:00
+[2022-03-25 09:19:39,969] {standard_task_runner.py:52} INFO - Started process 24228 to run task
+[2022-03-25 09:19:39,973] {standard_task_runner.py:76} INFO - Running: ['airflow', 'tasks', 'run', 'class_training', 'Create_Num_ID', 'manual__2022-03-25T13:19:29.888778+00:00', '--job-id', '12', '--raw', '--subdir', 'DAGS_FOLDER/class_training.py', '--cfg-path', '/var/folders/1v/qwnb14hd7z7dhfn3xtt04sym0000gn/T/tmpuesqpmdi', '--error-file', '/var/folders/1v/qwnb14hd7z7dhfn3xtt04sym0000gn/T/tmpku6bjkex']
+[2022-03-25 09:19:39,975] {standard_task_runner.py:77} INFO - Job 12: Subtask Create_Num_ID
+[2022-03-25 09:19:40,006] {logging_mixin.py:109} INFO - Running <TaskInstance: class_training.Create_Num_ID manual__2022-03-25T13:19:29.888778+00:00 [running]> on host adebolas-mbp.hsd1.md.comcast.net
+[2022-03-25 09:19:40,029] {taskinstance.py:1429} INFO - Exporting the following env vars:
+AIRFLOW_CTX_DAG_EMAIL=adebola.fagbule1@gmail.com
+AIRFLOW_CTX_DAG_OWNER=airflow
+AIRFLOW_CTX_DAG_ID=class_training
+AIRFLOW_CTX_TASK_ID=Create_Num_ID
+AIRFLOW_CTX_EXECUTION_DATE=2022-03-25T13:19:29.888778+00:00
+AIRFLOW_CTX_DAG_RUN_ID=manual__2022-03-25T13:19:29.888778+00:00
+[2022-03-25 09:19:40,135] {python.py:175} INFO - Done. Returned value was: None
+[2022-03-25 09:19:40,140] {taskinstance.py:1272} INFO - Marking task as SUCCESS. dag_id=class_training, task_id=Create_Num_ID, execution_date=20220325T131929, start_date=20220325T131939, end_date=20220325T131940
+[2022-03-25 09:19:40,163] {local_task_job.py:154} INFO - Task exited with return code 0
+[2022-03-25 09:19:40,185] {local_task_job.py:264} INFO - 1 downstream tasks scheduled from follow-on schedule check

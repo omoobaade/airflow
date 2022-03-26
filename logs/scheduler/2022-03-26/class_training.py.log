@@ -1,0 +1,133 @@
+[2022-03-25 20:25:00,632] {processor.py:163} INFO - Started process (PID=26295) to work on /Users/adebolafagbule/airflow/dags/class_training.py
+[2022-03-25 20:25:00,633] {processor.py:642} INFO - Processing file /Users/adebolafagbule/airflow/dags/class_training.py for tasks to queue
+[2022-03-25 20:25:00,634] {logging_mixin.py:109} INFO - [2022-03-25 20:25:00,634] {dagbag.py:500} INFO - Filling up the DagBag from /Users/adebolafagbule/airflow/dags/class_training.py
+[2022-03-25 20:25:01,319] {processor.py:654} INFO - DAG(s) dict_keys(['class_training']) retrieved from /Users/adebolafagbule/airflow/dags/class_training.py
+[2022-03-25 20:25:01,352] {logging_mixin.py:109} INFO - [2022-03-25 20:25:01,352] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-25 20:25:01,372] {logging_mixin.py:109} INFO - [2022-03-25 20:25:01,372] {dag.py:2937} INFO - Setting next_dagrun for class_training to 2022-03-26T00:00:00+00:00
+[2022-03-25 20:25:01,385] {processor.py:171} INFO - Processing /Users/adebolafagbule/airflow/dags/class_training.py took 0.754 seconds
+[2022-03-25 22:39:39,505] {processor.py:163} INFO - Started process (PID=26387) to work on /Users/adebolafagbule/airflow/dags/class_training.py
+[2022-03-25 22:39:40,230] {processor.py:642} INFO - Processing file /Users/adebolafagbule/airflow/dags/class_training.py for tasks to queue
+[2022-03-25 22:39:40,234] {logging_mixin.py:109} INFO - [2022-03-25 22:39:40,233] {dagbag.py:500} INFO - Filling up the DagBag from /Users/adebolafagbule/airflow/dags/class_training.py
+[2022-03-25 22:39:40,856] {processor.py:654} INFO - DAG(s) dict_keys(['class_training']) retrieved from /Users/adebolafagbule/airflow/dags/class_training.py
+[2022-03-25 22:39:40,877] {logging_mixin.py:109} INFO - [2022-03-25 22:39:40,877] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-25 22:39:40,892] {logging_mixin.py:109} INFO - [2022-03-25 22:39:40,891] {dag.py:2937} INFO - Setting next_dagrun for class_training to 2022-03-26T00:00:00+00:00
+[2022-03-25 22:39:40,899] {processor.py:171} INFO - Processing /Users/adebolafagbule/airflow/dags/class_training.py took 1.451 seconds
+[2022-03-25 23:21:49,730] {processor.py:163} INFO - Started process (PID=26532) to work on /Users/adebolafagbule/airflow/dags/class_training.py
+[2022-03-25 23:21:49,731] {processor.py:642} INFO - Processing file /Users/adebolafagbule/airflow/dags/class_training.py for tasks to queue
+[2022-03-25 23:21:49,731] {logging_mixin.py:109} INFO - [2022-03-25 23:21:49,731] {dagbag.py:500} INFO - Filling up the DagBag from /Users/adebolafagbule/airflow/dags/class_training.py
+[2022-03-25 23:21:50,189] {processor.py:654} INFO - DAG(s) dict_keys(['class_training']) retrieved from /Users/adebolafagbule/airflow/dags/class_training.py
+[2022-03-25 23:21:50,203] {logging_mixin.py:109} INFO - [2022-03-25 23:21:50,203] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-25 23:21:50,212] {logging_mixin.py:109} INFO - [2022-03-25 23:21:50,212] {dag.py:2937} INFO - Setting next_dagrun for class_training to 2022-03-26T00:00:00+00:00
+[2022-03-25 23:21:50,218] {processor.py:171} INFO - Processing /Users/adebolafagbule/airflow/dags/class_training.py took 0.488 seconds
+[2022-03-25 23:22:37,194] {processor.py:163} INFO - Started process (PID=26594) to work on /Users/adebolafagbule/airflow/dags/class_training.py
+[2022-03-25 23:22:37,195] {processor.py:642} INFO - Processing file /Users/adebolafagbule/airflow/dags/class_training.py for tasks to queue
+[2022-03-25 23:22:37,195] {logging_mixin.py:109} INFO - [2022-03-25 23:22:37,195] {dagbag.py:500} INFO - Filling up the DagBag from /Users/adebolafagbule/airflow/dags/class_training.py
+[2022-03-25 23:22:37,621] {processor.py:654} INFO - DAG(s) dict_keys(['class_training']) retrieved from /Users/adebolafagbule/airflow/dags/class_training.py
+[2022-03-25 23:22:37,650] {logging_mixin.py:109} INFO - [2022-03-25 23:22:37,650] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-25 23:22:37,672] {logging_mixin.py:109} INFO - [2022-03-25 23:22:37,672] {dag.py:2937} INFO - Setting next_dagrun for class_training to 2022-03-26T00:00:00+00:00
+[2022-03-25 23:22:37,685] {processor.py:171} INFO - Processing /Users/adebolafagbule/airflow/dags/class_training.py took 0.491 seconds
+[2022-03-25 23:23:19,201] {processor.py:163} INFO - Started process (PID=26654) to work on /Users/adebolafagbule/airflow/dags/class_training.py
+[2022-03-25 23:23:19,201] {processor.py:642} INFO - Processing file /Users/adebolafagbule/airflow/dags/class_training.py for tasks to queue
+[2022-03-25 23:23:19,202] {logging_mixin.py:109} INFO - [2022-03-25 23:23:19,202] {dagbag.py:500} INFO - Filling up the DagBag from /Users/adebolafagbule/airflow/dags/class_training.py
+[2022-03-25 23:23:19,601] {processor.py:654} INFO - DAG(s) dict_keys(['class_training']) retrieved from /Users/adebolafagbule/airflow/dags/class_training.py
+[2022-03-25 23:23:19,614] {logging_mixin.py:109} INFO - [2022-03-25 23:23:19,614] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-25 23:23:19,622] {logging_mixin.py:109} INFO - [2022-03-25 23:23:19,622] {dag.py:2937} INFO - Setting next_dagrun for class_training to 2022-03-26T00:00:00+00:00
+[2022-03-25 23:23:19,628] {processor.py:171} INFO - Processing /Users/adebolafagbule/airflow/dags/class_training.py took 0.428 seconds
+[2022-03-25 23:24:00,774] {processor.py:163} INFO - Started process (PID=26782) to work on /Users/adebolafagbule/airflow/dags/class_training.py
+[2022-03-25 23:24:00,774] {processor.py:642} INFO - Processing file /Users/adebolafagbule/airflow/dags/class_training.py for tasks to queue
+[2022-03-25 23:24:00,775] {logging_mixin.py:109} INFO - [2022-03-25 23:24:00,775] {dagbag.py:500} INFO - Filling up the DagBag from /Users/adebolafagbule/airflow/dags/class_training.py
+[2022-03-25 23:24:01,173] {processor.py:654} INFO - DAG(s) dict_keys(['class_training']) retrieved from /Users/adebolafagbule/airflow/dags/class_training.py
+[2022-03-25 23:24:01,189] {logging_mixin.py:109} INFO - [2022-03-25 23:24:01,189] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-25 23:24:01,198] {logging_mixin.py:109} INFO - [2022-03-25 23:24:01,198] {dag.py:2937} INFO - Setting next_dagrun for class_training to 2022-03-26T00:00:00+00:00
+[2022-03-25 23:24:01,204] {processor.py:171} INFO - Processing /Users/adebolafagbule/airflow/dags/class_training.py took 0.431 seconds
+[2022-03-25 23:24:41,068] {processor.py:163} INFO - Started process (PID=26832) to work on /Users/adebolafagbule/airflow/dags/class_training.py
+[2022-03-25 23:24:41,068] {processor.py:642} INFO - Processing file /Users/adebolafagbule/airflow/dags/class_training.py for tasks to queue
+[2022-03-25 23:24:41,069] {logging_mixin.py:109} INFO - [2022-03-25 23:24:41,069] {dagbag.py:500} INFO - Filling up the DagBag from /Users/adebolafagbule/airflow/dags/class_training.py
+[2022-03-25 23:24:41,498] {processor.py:654} INFO - DAG(s) dict_keys(['class_training']) retrieved from /Users/adebolafagbule/airflow/dags/class_training.py
+[2022-03-25 23:24:41,511] {logging_mixin.py:109} INFO - [2022-03-25 23:24:41,510] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-25 23:24:41,518] {logging_mixin.py:109} INFO - [2022-03-25 23:24:41,518] {dag.py:2937} INFO - Setting next_dagrun for class_training to 2022-03-26T00:00:00+00:00
+[2022-03-25 23:24:41,524] {processor.py:171} INFO - Processing /Users/adebolafagbule/airflow/dags/class_training.py took 0.456 seconds
+[2022-03-25 23:25:22,618] {processor.py:163} INFO - Started process (PID=26889) to work on /Users/adebolafagbule/airflow/dags/class_training.py
+[2022-03-25 23:25:22,619] {processor.py:642} INFO - Processing file /Users/adebolafagbule/airflow/dags/class_training.py for tasks to queue
+[2022-03-25 23:25:22,620] {logging_mixin.py:109} INFO - [2022-03-25 23:25:22,620] {dagbag.py:500} INFO - Filling up the DagBag from /Users/adebolafagbule/airflow/dags/class_training.py
+[2022-03-25 23:25:23,016] {processor.py:654} INFO - DAG(s) dict_keys(['class_training']) retrieved from /Users/adebolafagbule/airflow/dags/class_training.py
+[2022-03-25 23:25:23,029] {logging_mixin.py:109} INFO - [2022-03-25 23:25:23,029] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-25 23:25:23,037] {logging_mixin.py:109} INFO - [2022-03-25 23:25:23,037] {dag.py:2937} INFO - Setting next_dagrun for class_training to 2022-03-26T00:00:00+00:00
+[2022-03-25 23:25:23,042] {processor.py:171} INFO - Processing /Users/adebolafagbule/airflow/dags/class_training.py took 0.425 seconds
+[2022-03-25 23:26:03,171] {processor.py:163} INFO - Started process (PID=26935) to work on /Users/adebolafagbule/airflow/dags/class_training.py
+[2022-03-25 23:26:03,172] {processor.py:642} INFO - Processing file /Users/adebolafagbule/airflow/dags/class_training.py for tasks to queue
+[2022-03-25 23:26:03,173] {logging_mixin.py:109} INFO - [2022-03-25 23:26:03,173] {dagbag.py:500} INFO - Filling up the DagBag from /Users/adebolafagbule/airflow/dags/class_training.py
+[2022-03-25 23:26:03,555] {processor.py:654} INFO - DAG(s) dict_keys(['class_training']) retrieved from /Users/adebolafagbule/airflow/dags/class_training.py
+[2022-03-25 23:26:03,568] {logging_mixin.py:109} INFO - [2022-03-25 23:26:03,568] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-25 23:26:03,576] {logging_mixin.py:109} INFO - [2022-03-25 23:26:03,576] {dag.py:2937} INFO - Setting next_dagrun for class_training to 2022-03-26T00:00:00+00:00
+[2022-03-25 23:26:03,581] {processor.py:171} INFO - Processing /Users/adebolafagbule/airflow/dags/class_training.py took 0.410 seconds
+[2022-03-25 23:26:43,733] {processor.py:163} INFO - Started process (PID=26986) to work on /Users/adebolafagbule/airflow/dags/class_training.py
+[2022-03-25 23:26:43,734] {processor.py:642} INFO - Processing file /Users/adebolafagbule/airflow/dags/class_training.py for tasks to queue
+[2022-03-25 23:26:43,734] {logging_mixin.py:109} INFO - [2022-03-25 23:26:43,734] {dagbag.py:500} INFO - Filling up the DagBag from /Users/adebolafagbule/airflow/dags/class_training.py
+[2022-03-25 23:26:44,115] {processor.py:654} INFO - DAG(s) dict_keys(['class_training']) retrieved from /Users/adebolafagbule/airflow/dags/class_training.py
+[2022-03-25 23:26:44,129] {logging_mixin.py:109} INFO - [2022-03-25 23:26:44,129] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-25 23:26:44,138] {logging_mixin.py:109} INFO - [2022-03-25 23:26:44,138] {dag.py:2937} INFO - Setting next_dagrun for class_training to 2022-03-26T00:00:00+00:00
+[2022-03-25 23:26:44,142] {processor.py:171} INFO - Processing /Users/adebolafagbule/airflow/dags/class_training.py took 0.410 seconds
+[2022-03-25 23:27:26,099] {processor.py:163} INFO - Started process (PID=27038) to work on /Users/adebolafagbule/airflow/dags/class_training.py
+[2022-03-25 23:27:26,100] {processor.py:642} INFO - Processing file /Users/adebolafagbule/airflow/dags/class_training.py for tasks to queue
+[2022-03-25 23:27:26,100] {logging_mixin.py:109} INFO - [2022-03-25 23:27:26,100] {dagbag.py:500} INFO - Filling up the DagBag from /Users/adebolafagbule/airflow/dags/class_training.py
+[2022-03-25 23:27:26,514] {processor.py:654} INFO - DAG(s) dict_keys(['class_training']) retrieved from /Users/adebolafagbule/airflow/dags/class_training.py
+[2022-03-25 23:27:26,535] {logging_mixin.py:109} INFO - [2022-03-25 23:27:26,535] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-25 23:27:26,551] {logging_mixin.py:109} INFO - [2022-03-25 23:27:26,551] {dag.py:2937} INFO - Setting next_dagrun for class_training to 2022-03-26T00:00:00+00:00
+[2022-03-25 23:27:26,558] {processor.py:171} INFO - Processing /Users/adebolafagbule/airflow/dags/class_training.py took 0.459 seconds
+[2022-03-25 23:28:07,264] {processor.py:163} INFO - Started process (PID=27085) to work on /Users/adebolafagbule/airflow/dags/class_training.py
+[2022-03-25 23:28:07,265] {processor.py:642} INFO - Processing file /Users/adebolafagbule/airflow/dags/class_training.py for tasks to queue
+[2022-03-25 23:28:07,265] {logging_mixin.py:109} INFO - [2022-03-25 23:28:07,265] {dagbag.py:500} INFO - Filling up the DagBag from /Users/adebolafagbule/airflow/dags/class_training.py
+[2022-03-25 23:28:07,660] {processor.py:654} INFO - DAG(s) dict_keys(['class_training']) retrieved from /Users/adebolafagbule/airflow/dags/class_training.py
+[2022-03-25 23:28:07,674] {logging_mixin.py:109} INFO - [2022-03-25 23:28:07,674] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-25 23:28:07,682] {logging_mixin.py:109} INFO - [2022-03-25 23:28:07,682] {dag.py:2937} INFO - Setting next_dagrun for class_training to 2022-03-26T00:00:00+00:00
+[2022-03-25 23:28:07,688] {processor.py:171} INFO - Processing /Users/adebolafagbule/airflow/dags/class_training.py took 0.424 seconds
+[2022-03-25 23:28:47,623] {processor.py:163} INFO - Started process (PID=27124) to work on /Users/adebolafagbule/airflow/dags/class_training.py
+[2022-03-25 23:28:47,624] {processor.py:642} INFO - Processing file /Users/adebolafagbule/airflow/dags/class_training.py for tasks to queue
+[2022-03-25 23:28:47,624] {logging_mixin.py:109} INFO - [2022-03-25 23:28:47,624] {dagbag.py:500} INFO - Filling up the DagBag from /Users/adebolafagbule/airflow/dags/class_training.py
+[2022-03-25 23:28:47,977] {processor.py:654} INFO - DAG(s) dict_keys(['class_training']) retrieved from /Users/adebolafagbule/airflow/dags/class_training.py
+[2022-03-25 23:28:47,990] {logging_mixin.py:109} INFO - [2022-03-25 23:28:47,990] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-25 23:28:47,998] {logging_mixin.py:109} INFO - [2022-03-25 23:28:47,998] {dag.py:2937} INFO - Setting next_dagrun for class_training to 2022-03-26T00:00:00+00:00
+[2022-03-25 23:28:48,003] {processor.py:171} INFO - Processing /Users/adebolafagbule/airflow/dags/class_training.py took 0.380 seconds
+[2022-03-25 23:29:27,765] {processor.py:163} INFO - Started process (PID=27166) to work on /Users/adebolafagbule/airflow/dags/class_training.py
+[2022-03-25 23:29:27,766] {processor.py:642} INFO - Processing file /Users/adebolafagbule/airflow/dags/class_training.py for tasks to queue
+[2022-03-25 23:29:27,766] {logging_mixin.py:109} INFO - [2022-03-25 23:29:27,766] {dagbag.py:500} INFO - Filling up the DagBag from /Users/adebolafagbule/airflow/dags/class_training.py
+[2022-03-25 23:29:28,205] {processor.py:654} INFO - DAG(s) dict_keys(['class_training']) retrieved from /Users/adebolafagbule/airflow/dags/class_training.py
+[2022-03-25 23:29:28,220] {logging_mixin.py:109} INFO - [2022-03-25 23:29:28,219] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-25 23:29:28,228] {logging_mixin.py:109} INFO - [2022-03-25 23:29:28,228] {dag.py:2937} INFO - Setting next_dagrun for class_training to 2022-03-26T00:00:00+00:00
+[2022-03-25 23:29:28,234] {processor.py:171} INFO - Processing /Users/adebolafagbule/airflow/dags/class_training.py took 0.469 seconds
+[2022-03-25 23:30:09,923] {processor.py:163} INFO - Started process (PID=27220) to work on /Users/adebolafagbule/airflow/dags/class_training.py
+[2022-03-25 23:30:09,923] {processor.py:642} INFO - Processing file /Users/adebolafagbule/airflow/dags/class_training.py for tasks to queue
+[2022-03-25 23:30:09,923] {logging_mixin.py:109} INFO - [2022-03-25 23:30:09,923] {dagbag.py:500} INFO - Filling up the DagBag from /Users/adebolafagbule/airflow/dags/class_training.py
+[2022-03-25 23:30:10,325] {processor.py:654} INFO - DAG(s) dict_keys(['class_training']) retrieved from /Users/adebolafagbule/airflow/dags/class_training.py
+[2022-03-25 23:30:10,339] {logging_mixin.py:109} INFO - [2022-03-25 23:30:10,339] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-25 23:30:10,348] {logging_mixin.py:109} INFO - [2022-03-25 23:30:10,348] {dag.py:2937} INFO - Setting next_dagrun for class_training to 2022-03-26T00:00:00+00:00
+[2022-03-25 23:30:10,353] {processor.py:171} INFO - Processing /Users/adebolafagbule/airflow/dags/class_training.py took 0.430 seconds
+[2022-03-25 23:30:53,631] {processor.py:163} INFO - Started process (PID=27277) to work on /Users/adebolafagbule/airflow/dags/class_training.py
+[2022-03-25 23:30:53,632] {processor.py:642} INFO - Processing file /Users/adebolafagbule/airflow/dags/class_training.py for tasks to queue
+[2022-03-25 23:30:53,632] {logging_mixin.py:109} INFO - [2022-03-25 23:30:53,632] {dagbag.py:500} INFO - Filling up the DagBag from /Users/adebolafagbule/airflow/dags/class_training.py
+[2022-03-25 23:30:54,070] {processor.py:654} INFO - DAG(s) dict_keys(['class_training']) retrieved from /Users/adebolafagbule/airflow/dags/class_training.py
+[2022-03-25 23:30:54,084] {logging_mixin.py:109} INFO - [2022-03-25 23:30:54,084] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-25 23:30:54,101] {logging_mixin.py:109} INFO - [2022-03-25 23:30:54,101] {dag.py:2937} INFO - Setting next_dagrun for class_training to 2022-03-26T00:00:00+00:00
+[2022-03-25 23:30:54,106] {processor.py:171} INFO - Processing /Users/adebolafagbule/airflow/dags/class_training.py took 0.476 seconds
+[2022-03-25 23:31:36,810] {processor.py:163} INFO - Started process (PID=27321) to work on /Users/adebolafagbule/airflow/dags/class_training.py
+[2022-03-25 23:31:36,811] {processor.py:642} INFO - Processing file /Users/adebolafagbule/airflow/dags/class_training.py for tasks to queue
+[2022-03-25 23:31:36,811] {logging_mixin.py:109} INFO - [2022-03-25 23:31:36,811] {dagbag.py:500} INFO - Filling up the DagBag from /Users/adebolafagbule/airflow/dags/class_training.py
+[2022-03-25 23:31:37,268] {processor.py:654} INFO - DAG(s) dict_keys(['class_training']) retrieved from /Users/adebolafagbule/airflow/dags/class_training.py
+[2022-03-25 23:31:37,283] {logging_mixin.py:109} INFO - [2022-03-25 23:31:37,283] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-25 23:31:37,292] {logging_mixin.py:109} INFO - [2022-03-25 23:31:37,292] {dag.py:2937} INFO - Setting next_dagrun for class_training to 2022-03-26T00:00:00+00:00
+[2022-03-25 23:31:37,297] {processor.py:171} INFO - Processing /Users/adebolafagbule/airflow/dags/class_training.py took 0.488 seconds
+[2022-03-25 23:32:19,136] {processor.py:163} INFO - Started process (PID=27363) to work on /Users/adebolafagbule/airflow/dags/class_training.py
+[2022-03-25 23:32:19,138] {processor.py:642} INFO - Processing file /Users/adebolafagbule/airflow/dags/class_training.py for tasks to queue
+[2022-03-25 23:32:19,138] {logging_mixin.py:109} INFO - [2022-03-25 23:32:19,138] {dagbag.py:500} INFO - Filling up the DagBag from /Users/adebolafagbule/airflow/dags/class_training.py
+[2022-03-25 23:32:19,574] {processor.py:654} INFO - DAG(s) dict_keys(['class_training']) retrieved from /Users/adebolafagbule/airflow/dags/class_training.py
+[2022-03-25 23:32:19,589] {logging_mixin.py:109} INFO - [2022-03-25 23:32:19,589] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-25 23:32:19,597] {logging_mixin.py:109} INFO - [2022-03-25 23:32:19,597] {dag.py:2937} INFO - Setting next_dagrun for class_training to 2022-03-26T00:00:00+00:00
+[2022-03-25 23:32:19,603] {processor.py:171} INFO - Processing /Users/adebolafagbule/airflow/dags/class_training.py took 0.468 seconds
+[2022-03-25 23:33:00,433] {processor.py:163} INFO - Started process (PID=27406) to work on /Users/adebolafagbule/airflow/dags/class_training.py
+[2022-03-25 23:33:00,435] {processor.py:642} INFO - Processing file /Users/adebolafagbule/airflow/dags/class_training.py for tasks to queue
+[2022-03-25 23:33:00,436] {logging_mixin.py:109} INFO - [2022-03-25 23:33:00,436] {dagbag.py:500} INFO - Filling up the DagBag from /Users/adebolafagbule/airflow/dags/class_training.py
+[2022-03-25 23:33:00,877] {processor.py:654} INFO - DAG(s) dict_keys(['class_training']) retrieved from /Users/adebolafagbule/airflow/dags/class_training.py
+[2022-03-25 23:33:00,892] {logging_mixin.py:109} INFO - [2022-03-25 23:33:00,892] {dag.py:2398} INFO - Sync 1 DAGs
+[2022-03-25 23:33:00,901] {logging_mixin.py:109} INFO - [2022-03-25 23:33:00,901] {dag.py:2937} INFO - Setting next_dagrun for class_training to 2022-03-26T00:00:00+00:00
+[2022-03-25 23:33:00,906] {processor.py:171} INFO - Processing /Users/adebolafagbule/airflow/dags/class_training.py took 0.473 seconds
